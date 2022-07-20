@@ -4,7 +4,7 @@ Test_Windev
 This project is under windev and it is developped under French code.
 (you will not be able to work it successfuly without windev application; under windev 26)
 
-In this application i try some different things (play i bit with the thread of windev).
+In this application i try some different things (play a bit with the thread of windev).
 
 There is 6 windows :
 - FEN_Test = two table with different button
@@ -25,4 +25,4 @@ There is 6 windows :
 - Fen_Snake = juste a simple snake (playable with the arrow keys)
 - Fen_Avoid_Asteroide = juste a simple Avoid Asteroid (playable with the arrow keys)
 - Fen_Jeu de la vie = juste a simple life game with cells that can be dead or alive
-- Fen_SpaceInvader = juste a simple SpaceInvader - the monster don't send any projectiles. :'(
+- Fen_SpaceInvader = juste a simple SpaceInvader - the monster don't send any projectiles.
